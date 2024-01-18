@@ -5,9 +5,6 @@ Team name   : SignalSolvers <br>
 3) Pieter Christy Yan Yudhistira (Hacker)<br>
 4) Steven Anthony (Hacker)<br>
 
-## Translator
-Dalam direktori ini, terdapat beberapa program. Collectdata.py merupakan program untuk mendapatkan foto untuk training, testing data. Data.py merupakan program untuk membaca foto dataset dan membaca gerakan tangan. Trainmodel.py merupakan program untuk melakukan training model. App.py merupakan program untuk menyalakan kamera dan membaca bahasa isyarat secara real-time
-
 # Reference
 https://github.com/kumarvivek9088/SignLanguageDetectionUsingML <br>
 Kode diatas semua milik akun kumarvivek9088
